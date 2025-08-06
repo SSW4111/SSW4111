@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm 송시우</h1>
-<h3 align="center">개발자 지망생</h3>
+<h1 align="center">Hi 👋 I'm 송시우</h1>
+<h3 align="center">신입개발자</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssw4111&label=Profile%20views&color=0e75b6&style=flat" alt="ssw4111" /> </p>
 
